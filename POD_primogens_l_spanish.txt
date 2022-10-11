@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_spanish:
 
  court_position_strategist_trait:0 "[GetTrait('strategist').GetName( ROOT.Char )]"
  court_position_wrathful_trait:0 "[GetTrait('wrathful').GetName( ROOT.Char )]"
